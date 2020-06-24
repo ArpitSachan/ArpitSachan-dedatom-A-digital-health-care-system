@@ -1,6 +1,6 @@
 # dedatom : A digital Health care system
 
-This repository contains a health care app bsed on geolocation and digitalistion of health system.
+This repository contains a health care app based on geolocation and digitization of the health system. It includes real-time chat (to be encrypted) enabled with image-picker and hostpital finder using google maps api.
 
 ### Key Features:
  - Hostpital finder using google map API
